@@ -1,0 +1,62 @@
+/* FOLHA DE ESTILO CSS */
+
+/* ==== ESTILO HEADER ===== */
+header {
+    background-color: #;
+}
+
+h1.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+
+h1:hover.navbar-brand {
+    color: #fff;
+}
+
+#navegacao a {
+    color: #fff;
+}
+
+#navegacao a.active {
+    background-color: #fff;
+    border: none;
+    color: rgb(11, 28, 104);
+}
+
+/* ==== ESTILO HEADER ===== */
+
+/* ==== ESTILO SECTION CARROSSEL ===== */
+
+img#animation {
+    height: 400px;
+    width: 100%;
+}
+
+/* ==== ESTILO SECTION CARROSSEL ===== */
+
+/* ==== ESTILO CARDS ====*/
+
+.desc {
+    height: 105px;
+}
+
+.precos {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.precos del {
+    color: red;
+    font-size: 23px;
+}
+
+.precos p span {
+    color:rgb(7, 7, 70);
+    font-weight: bold;
+}
+
+
+/* ==== ESTILO CARDS ====*/
